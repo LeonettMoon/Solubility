@@ -19,14 +19,14 @@ The goal of this project was to transition from raw chemical data to a predictiv
 4. **Data Preprocessing:** Implementation of `StandardScaler` to ensure feature parity.
 5. **Modeling:** Trained a Linear Regression model with an 80/20 train-test split.
 
-## 📊 Key Results
+## Key Results
 * **Training R²:** 0.68
 * **Test R²:** 0.69
 * **Main Insight:** **Polar Surface Area (PSA)** was identified as the most influential positive predictor of solubility, highlighting the critical role of surface polarity in solute-solvent interactions.
 
 
 
-## 🚀 How to use
+## How to use
 1. Clone the repository
    ```bash
    git clone [https://github.com/LeonettMoon/Solubility.git](https://github.com/LeonettMoon/Solubility.git)
